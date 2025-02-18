@@ -1,1 +1,2 @@
 # testrepo
+# updaterepo string
